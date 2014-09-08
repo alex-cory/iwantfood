@@ -143,7 +143,10 @@ background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAeUCAY
 
 .price-text-color
 {
-   color: #219FD1;
+   color: #7d4702;
+}
+i.fa.fa-shopping-cart {
+    color: #7d4702;
 }
 
 .col-item .info .rating
