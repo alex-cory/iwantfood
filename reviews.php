@@ -1,4 +1,4 @@
-<div class="carousel-reviews broun-block">
+<div id="reviews" class="carousel-reviews broun-block">
     <div class="container">
 		<div class="row m-top-4em">
 			<h2>Carousel Reviews</h2>

@@ -44,7 +44,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">Start</span> Bootstrap
+                    <i class="fa fa-coffee"></i>  <span class="light">Simply</span> iWantFood
                 </a>
             </div>
 
@@ -59,10 +59,13 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
+                        <a class="page-scroll" href="#download">Food</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#reviews">Reviews</a>
                     </li>
                 </ul>
             </div>
@@ -78,7 +81,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">iWantFood</h1>
-                        <p class="intro-text">Healthy, Affordable, & Mouth-Watering Food for Under $6</p>
+                        <p class="intro-text">Healthy, Affordable, & Mouth-Watering Food for Under $<p>
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -113,8 +116,7 @@
                     <div class="row">
                         <div class="row">
                             <div class="col-md-9">
-                                <h3>
-                                    Carousel Product Cart Slider</h3>
+                                <h3 class="pull-left">Delicious & Fast</h3>
                             </div>
                             <div class="col-md-3">
                                 <!-- Controls -->
@@ -143,12 +145,12 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $5.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="fa fa-star"></i>
+                                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star"></i>
+
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -173,34 +175,7 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Product Example</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $249.99</h5>
-                                                        </div>
-                                                        <div class="rating hidden-sm col-md-5">
-                                                        </div>
-                                                    </div>
-                                                    <div class="separator clear-left">
-                                                        <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" >Add to cart</a></p>
-                                                        <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
-                                                    </div>
-                                                    <div class="clearfix">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-3">
-                                            <div class="col-item">
-                                                <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
-                                                </div>
-                                                <div class="info">
-                                                    <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Sample Product</h5>
-                                                            <h5 class="price-text-color" style="color: #7d4702">
-                                                                $149.99</h5>
+                                                                $5.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
@@ -230,7 +205,36 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $4.99</h5>
+                                                        </div>
+                                                        <div class="rating hidden-sm col-md-5">
+                                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="separator clear-left">
+                                                        <p class="btn-add">
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" >Add to cart</a></p>
+                                                        <p class="btn-details">
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
+                                                    </div>
+                                                    <div class="clearfix">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="col-item">
+                                                <div class="photo">
+                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                </div>
+                                                <div class="info">
+                                                    <div class="row">
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 10pt">
+                                                                Sample Product</h5>
+                                                            <h5 class="price-text-color" style="color: #7d4702">
+                                                                $7.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
@@ -264,12 +268,14 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $4.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="fa fa-star"></i>
+                                                            </i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                                                            <!-- <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="price-text-color fa fa-star">
+                                                            </i> -->
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -294,34 +300,7 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Grouped Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $249.99</h5>
-                                                        </div>
-                                                        <div class="rating hidden-sm col-md-5">
-                                                        </div>
-                                                    </div>
-                                                    <div class="separator clear-left">
-                                                        <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" >Add to cart</a></p>
-                                                        <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
-                                                    </div>
-                                                    <div class="clearfix">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-3">
-                                            <div class="col-item">
-                                                <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
-                                                </div>
-                                                <div class="info">
-                                                    <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Product with Variants</h5>
-                                                            <h5 class="price-text-color" style="color: #7d4702">
-                                                                $149.99</h5>
+                                                                $5.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
@@ -351,12 +330,42 @@
                                                             <h5 style="font-size: 10pt">
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $6.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="fa fa-star"></i>
+                                                            </i><i class="price-text-color fa fa-star">
+                                                            </i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="separator clear-left">
+                                                        <p class="btn-add">
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" >Add to cart</a></p>
+                                                        <p class="btn-details">
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
+                                                    </div>
+                                                    <div class="clearfix">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="col-item">
+                                                <div class="photo">
+                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                </div>
+                                                <div class="info">
+                                                    <div class="row">
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 10pt">
+                                                                Product with Variants</h5>
+                                                            <h5 class="price-text-color" style="color: #7d4702">
+                                                                $5.99</h5>
+                                                        </div>
+                                                        <div class="rating hidden-sm col-md-5">
+                                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="price-text-color fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -378,8 +387,7 @@
                     <div class="row">
                         <div class="row">
                             <div class="col-md-9">
-                                <h3>
-                                    Carousel Product Cart Slider</h3>
+                                <h3 class="pull-left">Specialties for Today</h3>
                             </div>
                             <div class="col-md-3">
                                 <!-- Controls -->
@@ -406,19 +414,20 @@
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $19.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
-                                                            </i><i class="fa fa-star"></i>
+                                                            </i><i class="price-text-color fa fa-star">
+                                                            </i>
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -436,16 +445,19 @@
                                                             <h5>
                                                                 Product Example</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $249.99</h5>
+                                                                $14.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
+                                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="fa fa-star"></i>
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -463,7 +475,7 @@
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $149.99</h5>
+                                                                $14.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
@@ -473,9 +485,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -497,7 +509,7 @@
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $199.99</h5>
+                                                                $19.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
@@ -507,9 +519,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -527,16 +539,19 @@
                                                             <h5>
                                                                 Grouped Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $249.99</h5>
+                                                                $14.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-5">
+                                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+                                                            </i><i class="fa fa-star"></i>
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -554,9 +569,9 @@
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
-                                                                $149.99</h5>
+                                                                $14.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-4">
+                                                        <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -564,9 +579,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="13pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -588,13 +603,19 @@
     <section id="contact" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
+                <h2>Contact iWantFood</h2>
+                <p>Feel free to email us to provide some feedback on our products, give us suggestions for new dishes and foods, or to just say hello!</p>
+                <p><a href="mailto:feedback@startbootstrap.com">team@iwantfood.co</a>
                 </p>
-                <ul class="list-inline banner-social-buttons">
+                <div class="list-inline banner-social-buttons">
+                    <a href="https://www.facebook.com/bootsnipp"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+                    <a href="https://twitter.com/bootsnipp"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
+                    <a href="https://plus.google.com/+Bootsnipp-page"><i id="social" class="fa fa-google-plus-square fa-3x social-gp"></i></a>
+                    <a href="mailto:bootsnipp@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
+                </div>
+<!--                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <a href="https://twitter.com/iwantfood" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
                     <li>
                         <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
@@ -602,12 +623,12 @@
                     <li>
                         <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </section>
 
-    <?php include_once './testimonials.php'; ?>
+    <?php include_once './reviews.php'; ?>
 
     <!-- Map Section -->
     <div id="map"></div>
@@ -615,7 +636,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Copyright &copy; Your Website 2014</p>
+            <p>Copyright &copy; iWantFood 2014</p>
         </div>
     </footer>
 
