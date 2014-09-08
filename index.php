@@ -180,7 +180,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -210,7 +210,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -240,7 +240,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -274,7 +274,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -301,7 +301,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -331,7 +331,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
@@ -361,7 +361,7 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 13pt">Add to cart</a></p>
                                                         <p class="btn-details">
                                                             <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
                                                     </div>
