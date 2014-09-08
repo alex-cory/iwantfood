@@ -40,7 +40,7 @@ section#contact {
    padding: 15px 18px;
 }
 .block-text a {
-color: #7d4702;
+color: #ffff;
    font-size: 25px;
    font-weight: bold;
    line-height: 21px;
@@ -516,17 +516,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #219ab3;
-    color: #219ab3;
+    border: 1px solid #7d4702;
+    color: #7d4702;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #219ab3;
+    border: 1px solid #7d4702;
     outline: 0;
     color: #000;
-    background-color: #219ab3;
+    background-color: #7d4702;
 }
 
 ul.banner-social-buttons {
