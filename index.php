@@ -122,6 +122,8 @@
                                 </div>
                             </div>
                         </div>
+
+                        <!-- FOOD SLIDERS -->
                         <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
