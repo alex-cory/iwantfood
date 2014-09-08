@@ -139,13 +139,13 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-6">
+                                                        <div class="price col-md-7">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-4">
+                                                        <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -169,13 +169,13 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-6">
+                                                        <div class="price col-md-7">
                                                             <h5>
                                                                 Product Example</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-4">
+                                                        <div class="rating hidden-sm col-md-5">
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -196,13 +196,13 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-6">
+                                                        <div class="price col-md-7">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-4">
+                                                        <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -226,13 +226,13 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-6">
+                                                        <div class="price col-md-7">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-4">
+                                                        <div class="rating hidden-sm col-md-5">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
