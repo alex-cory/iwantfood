@@ -1,7 +1,7 @@
 <div id="reviews" class="carousel-reviews broun-block">
     <div class="container">
 		<div class="row m-top-4em">
-			<h2>Carousel Reviews</h2>
+			<h2>Reviews</h2>
 		</div>
         <div class="row">
             <div id="carousel-reviews" class="carousel slide" data-ride="carousel">

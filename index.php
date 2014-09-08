@@ -97,8 +97,8 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About iWantFood</h2>
                 <p>iWantFood is Each dish is centered around an item that is high in protein and low in fat, but you'd never be able to tell because it just tastes <a href="http://startbootstrap.com/template-overviews/grayscale/">that</a></p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, delectus amet nam autem eligendi, quia tempore nostrum in error nihil, neque harum dolor id? Vero itaque, <a href="http://gratisography.com/">error debitis</a> at iure.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat doloremque cum, laborum, quasi eius tenetur officiis nam nulla unde, porro reprehenderit repellendus eligendi asperiores nesciunt sint facere amet odit optio?</p>
+                <p>More to come soon!</p>
+                <p>No need to pick up the phone. Quick and accurate ordering is here!</p>
             </div>
         </div>
     </section>
@@ -109,7 +109,7 @@
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2 text-shadow">
                     <h2>Check Out the Food</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam doloribus consequatur error. Magni reprehenderit voluptas amet expedita neque aliquam odio, sit.</p>
+                    <p>More coming soon!</p>
                     <!-- <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a> -->
                 </div>
                 <div class="container">
