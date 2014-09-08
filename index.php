@@ -142,7 +142,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Sample Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -172,7 +172,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product Example</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -199,7 +199,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Sample Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -229,7 +229,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Sample Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -263,7 +263,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product with Variants</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -293,7 +293,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Grouped Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -320,7 +320,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product with Variants</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -350,7 +350,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product with Variants</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -405,7 +405,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Sample Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -435,7 +435,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product Example</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -462,7 +462,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Sample Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -496,7 +496,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product with Variants</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -526,7 +526,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Grouped Product</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
@@ -553,7 +553,7 @@
                                                         <div class="price col-md-6">
                                                             <h5>
                                                                 Product with Variants</h5>
-                                                            <h5 class="price-text-color">
+                                                            <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
                                                         <div class="rating hidden-sm col-md-6">
