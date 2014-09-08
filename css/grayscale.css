@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-h1.brand-heading, .intro-text {
+h1.brand-heading, .intro-text, .text-shadow {
     text-shadow: 2px 2px grey;
 }
 section#contact {

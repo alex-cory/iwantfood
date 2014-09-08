@@ -81,9 +81,9 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">iWantFood</h1>
-                        <p class="intro-text">Healthy, Affordable, & Mouth-Watering Food for Under $<p>
+                        <p class="intro-text">Healthy, Affordable, & Mouth-Watering Food for Under $6.00<p>
                         <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
+                            <i class="fa fa-angle-down animated"></i>
                         </a>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
     <section id="download" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
+                <div class="col-lg-8 col-lg-offset-2 text-shadow">
                     <h2>Check Out the Food</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam doloribus consequatur error. Magni reprehenderit voluptas amet expedita neque aliquam odio, sit.</p>
                     <!-- <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a> -->
@@ -129,6 +129,7 @@
                         </div>
 
                         <!-- FOOD SLIDERS -->
+                        <!-- Small Foods -->
                         <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
@@ -137,13 +138,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/Lemon-and-Dill-Barbecue-Salmon-Kabobs.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Sample Product</h5>
+                                                            <h5 style="font-size: 10pt">Salmon Kabobs</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $5.99</h5>
                                                         </div>
@@ -167,13 +167,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/eggbites.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Product Example</h5>
+                                                            <h5 style="font-size: 10pt">Egg White Bites</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $5.99</h5>
                                                         </div>
@@ -260,13 +259,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/peanut-curry.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Product with Variants</h5>
+                                                            <h5 style="font-size: 10pt">Peanut Butter Chicken Curry</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $4.99</h5>
                                                         </div>
@@ -292,13 +290,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/black-bean-burger.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Grouped Product</h5>
+                                                            <h5 style="font-size: 10pt">Black Bean Burger</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $5.99</h5>
                                                         </div>
@@ -322,13 +319,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/creamy-greek.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Product with Variants</h5>
+                                                            <h5 style="font-size: 10pt">Creamy Greek Yogurt Mac & Cheese</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $6.99</h5>
                                                         </div>
@@ -353,13 +349,12 @@
                                         <div class="col-sm-3">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/turkey-artichoke-sub.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">
-                                                                Product with Variants</h5>
+                                                            <h5 style="font-size: 10pt">Turkey, Artichoke, & Basil Sub</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $5.99</h5>
                                                         </div>
@@ -384,6 +379,8 @@
                             </div>
                         </div>
                     </div>
+
+                    <!-- SPECIALS --> <!-- Bigger foods -->
                     <div class="row">
                         <div class="row">
                             <div class="col-md-9">
@@ -406,17 +403,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/peanut-curry.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Sample Product</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Peanut Butter Chicken Curry</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $19.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star">
@@ -425,9 +421,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -437,17 +433,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/black-bean-burger.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Product Example</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Black Bean Burger</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $14.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -455,9 +450,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -467,17 +462,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/creamy-greek.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Sample Product</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Creamy Greek Yogurt Mac & Cheese</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $14.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -485,9 +479,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -501,17 +495,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/turkey-artichoke-sub.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Product with Variants</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Turkey, Artichoke, & Basil Sub</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $19.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -519,9 +512,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -531,17 +524,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/Lemon-and-Dill-Barbecue-Salmon-Kabobs.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Grouped Product</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Salmon Kabobs</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $14.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -549,9 +541,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
@@ -561,17 +553,16 @@
                                         <div class="col-sm-4">
                                             <div class="col-item">
                                                 <div class="photo">
-                                                    <img src="http://placehold.it/350x260" class="img-responsive" alt="a" />
+                                                    <img src="./img/eggbites.jpg" class="img-responsive" alt="a" />
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
-                                                            <h5>
-                                                                Product with Variants</h5>
+                                                        <div class="price col-md-8">
+                                                            <h5>Egg White Bites</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $14.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-5">
+                                                        <div class="rating hidden-sm col-md-4">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -579,9 +570,9 @@
                                                     </div>
                                                     <div class="separator clear-left">
                                                         <p class="btn-add">
-                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">Add to cart</a></p>
+                                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">Add to cart</a></p>
                                                         <p class="btn-details">
-                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 12pt">More details</a></p>
+                                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm" style="font-size: 10pt">More details</a></p>
                                                     </div>
                                                     <div class="clearfix">
                                                     </div>
