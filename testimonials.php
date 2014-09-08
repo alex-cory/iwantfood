@@ -1,10 +1,8 @@
-<div class="container m-top-2em">
-	<div class="row">
-		<h2>Carousel Reviews</h2>
-	</div>
-</div>
 <div class="carousel-reviews broun-block">
     <div class="container">
+		<div class="row">
+			<h2>Carousel Reviews</h2>
+		</div>
         <div class="row">
             <div id="carousel-reviews" class="carousel slide" data-ride="carousel">
 
