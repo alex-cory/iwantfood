@@ -139,8 +139,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
@@ -169,8 +169,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Product Example</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
@@ -196,8 +196,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
@@ -226,8 +226,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
@@ -260,8 +260,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
@@ -290,8 +290,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Grouped Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
@@ -317,8 +317,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
@@ -347,8 +347,8 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7" style="font-size: 12pt">
-                                                            <h5>
+                                                        <div class="price col-md-7">
+                                                            <h5 style="font-size: 12pt">
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
