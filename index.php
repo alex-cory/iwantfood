@@ -139,7 +139,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -169,7 +169,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Product Example</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -196,7 +196,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -226,7 +226,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Sample Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -260,7 +260,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -290,7 +290,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Grouped Product</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -317,7 +317,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
@@ -347,7 +347,7 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-7">
+                                                        <div class="price col-md-7" style="font-size: 12pt">
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
