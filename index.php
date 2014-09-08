@@ -195,7 +195,7 @@
                                                     <div class="row">
                                                         <div class="price col-md-6">
                                                             <h5>
-                                                                Next Sample Product</h5>
+                                                                Sample Product</h5>
                                                             <h5 class="price-text-color">
                                                                 $149.99</h5>
                                                         </div>
@@ -458,7 +458,7 @@
                                                     <div class="row">
                                                         <div class="price col-md-6">
                                                             <h5>
-                                                                Next Sample Product</h5>
+                                                                Sample Product</h5>
                                                             <h5 class="price-text-color">
                                                                 $149.99</h5>
                                                         </div>
