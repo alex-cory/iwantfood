@@ -27,7 +27,8 @@ section#contact {
 .carousel-control.left {left:-25px;}
 .carousel-control.right {right:-25px;}
 .broun-block {
-   background: url("http://myinstantcms.ru/images/bg-broun1.jpg") repeat fixed center top rgba(0, 0, 0, 0);
+   background: url("http://myinstantcms.ru/images/bg-broun1.jpg") repeat scroll center top rgba(0, 0, 0, 0);
+   /*background: url("http://myinstantcms.ru/images/bg-broun1.jpg") repeat fixed center top rgba(0, 0, 0, 0);*/
    padding-bottom: 34px;
 }
 .block-text {
@@ -368,7 +369,8 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat fixed bottom center;
+    background: url(../img/intro-bg.jpg) no-repeat scroll bottom center;
+    /*background: url(../img/intro-bg.jpg) no-repeat fixed bottom center;*/
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -486,7 +488,8 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat fixed center center;
+    background: url(../img/downloads-bg.jpg) no-repeat scroll center center;
+    /*background: url(../img/downloads-bg.jpg) no-repeat fixed center center;*/
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
