@@ -145,7 +145,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -175,7 +175,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -202,7 +202,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -232,7 +232,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -266,7 +266,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -296,7 +296,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -323,7 +323,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -353,7 +353,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -408,7 +408,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -438,7 +438,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
@@ -465,7 +465,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -499,7 +499,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $199.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>
@@ -529,7 +529,7 @@
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $249.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                         </div>
                                                     </div>
                                                     <div class="separator clear-left">
