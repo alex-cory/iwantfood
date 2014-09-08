@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-h1.brand-heading, .intro-text, .text-shadow {
+h1.brand-heading, .intro-text, .text-shadow, ul.text-shadow>li {
     text-shadow: 2px 2px grey;
 }
 section#contact {
@@ -368,7 +368,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/intro-bg.jpg) no-repeat fixed bottom center;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
