@@ -550,13 +550,13 @@
                                                 </div>
                                                 <div class="info">
                                                     <div class="row">
-                                                        <div class="price col-md-6">
+                                                        <div class="price col-md-7">
                                                             <h5>
                                                                 Product with Variants</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $149.99</h5>
                                                         </div>
-                                                        <div class="rating hidden-sm col-md-6">
+                                                        <div class="rating hidden-sm col-md-4 col-md-offset-1">
                                                             <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
                                                             </i><i class="fa fa-star"></i>

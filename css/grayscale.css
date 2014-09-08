@@ -143,10 +143,10 @@ background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAeUCAY
    font-size: 17px
 }
 
-.price-text-color
+/*.price-text-color
 {
    color: #7d4702;
-}
+}*/
 i.fa.fa-shopping-cart {
     color: #7d4702;
 }
