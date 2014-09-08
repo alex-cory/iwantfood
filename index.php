@@ -133,6 +133,8 @@
         </div>
     </section>
 
+    <?php include_once './testimonials.php'; ?>
+
     <!-- Map Section -->
     <div id="map"></div>
 
