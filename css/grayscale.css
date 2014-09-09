@@ -10,7 +10,7 @@ h1.brand-heading, .intro-text, .text-shadow, ul.text-shadow>li {
 section#contact {
     margin-bottom: 15em;
 }
-.fa.fa-chevron-right.btn.btn-default {
+.fa-chevron-right.btn.btn-default, .fa-chevron-left.btn.btn-default {
     background: wheat;
 }
 
