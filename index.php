@@ -354,7 +354,7 @@
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-7">
-                                                            <h5 style="font-size: 10pt">Turkey, Artichoke, & Basil Sub</h5>
+                                                            <h5 style="font-size: 10pt">Turkey Basil Artichoke Sub</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $5.99</h5>
                                                         </div>
@@ -467,7 +467,7 @@
                                                 <div class="info">
                                                     <div class="row">
                                                         <div class="price col-md-8">
-                                                            <h5>Creamy Greek Yogurt Mac & Cheese</h5>
+                                                            <h5>Creamy Greek Mac & Cheese</h5>
                                                             <h5 class="price-text-color" style="color: #7d4702">
                                                                 $14.99</h5>
                                                         </div>
