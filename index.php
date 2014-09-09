@@ -121,8 +121,8 @@
                             <div class="col-md-3">
                                 <!-- Controls -->
                                 <div class="controls pull-right hidden-xs">
-                                    <a class="left fa fa-chevron-left btn btn-success" href="#carousel-example"
-                                        data-slide="prev"></a><a class="right fa fa-chevron-right btn btn-success" href="#carousel-example"
+                                    <a class="left fa fa-chevron-left btn" href="#carousel-example"
+                                        data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example"
                                             data-slide="next"></a>
                                 </div>
                             </div>
@@ -389,8 +389,8 @@
                             <div class="col-md-3">
                                 <!-- Controls -->
                                 <div class="controls pull-right hidden-xs">
-                                    <a class="left fa fa-chevron-left btn btn-primary" href="#carousel-example-generic"
-                                        data-slide="prev"></a><a class="right fa fa-chevron-right btn btn-primary" href="#carousel-example-generic"
+                                    <a class="left fa fa-chevron-left btn" href="#carousel-example-generic"
+                                        data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example-generic"
                                             data-slide="next"></a>
                                 </div>
                             </div>
