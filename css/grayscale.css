@@ -556,7 +556,7 @@ div.banner-social-buttons {
 
 @media(max-width:767px) {
     div.banner-social-buttons a {
-        display: block;
+        display: inline-block;
         margin-bottom: 20px;
         padding: 0;
     }

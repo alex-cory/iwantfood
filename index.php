@@ -44,7 +44,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-coffee"></i>  <span class="light">Simply</span> iWantFood
+                    <i class="fa fa-coffee"></i>  <!-- <span class="light">Simply</span> --> iWantFood
                 </a>
             </div>
 
